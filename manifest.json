@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "WebGame.cz Rozšíření",
+  "version": "1.0",
+  "description": "Opravuje, upravuje nebo zlepšuje stránky online hry webgame.cz",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://webgame.cz/*", "https://www.webgame.cz/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

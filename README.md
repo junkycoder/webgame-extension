@@ -12,7 +12,7 @@ Netýká se čísel začínajících na ”#”, tj. čísel hráčů. - [ukázk
 ## Instalace
 1. Stáhněte [poslední ZIP zde](https://github.com/junkycoder/webgame-extension/archive/refs/heads/main.zip)
 2. Rozbalte ve vašem počítači
-3. V prohlížeči otevřete [chrome://extensions/](chrome://extensions/)
+3. V prohlížeči otevřete "Správa Rozšíření" nebo ručně napište **chrome://extensions/** do adresního řádku
 4. V pravo nahoře zapněte developer mód
 5. Nahrajte nezabalené rozšíření (vlevo nahoře nebo přetáhnutím celé zložky)
 6. Přejděte na [webgame.cz](https://webgame.cz/wg/) nebo [www.webgame.cz](https://www.webgame.cz/wg/)

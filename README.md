@@ -4,7 +4,7 @@ Plugin do Chrome prohlížečů, které vylepšuje nebo opravuje některé funkc
 ## Funkcionalita
 
 **Formátování dlouhých čísel**, např. 1000000 se zobrází jako 1 000 000.
-Netýká se čísel začínajících na ”#”, tj. čísel hráčů. - [ukázky](/wg-ext-format-nums.png)
+Netýká se čísel začínajících na ”#”, tj. čísel hráčů. - **[ukázky](/wg-ext-format-nums.png)**
 
 ---
 *[Odeslat požadavek na novou funkcionalitu nebo opravu stávající](mailto:hromada.dan+wgext@gmail.com?subject=WebGame%20roz%C5%A1%C3%AD%C5%99en%C3%AD)*
